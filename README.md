@@ -29,9 +29,8 @@ Durante o desenvolvimento deste projeto, pratiquei:
 - Controle de tempo utilizando timers
 - Lógica de comparação e combinação de elementos
 
-
-
-
+## Demonstração
+<img width="344" height="397" alt="image" src="https://github.com/user-attachments/assets/dbafac92-ae0f-4dc7-a7e4-22719461355a" />
 
 ## Próximos passos
 
