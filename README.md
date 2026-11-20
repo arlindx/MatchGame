@@ -1,8 +1,8 @@
 # MatchGame
 
-Meu primeiro código em C# e WPF
+Um jogo de memória desenvolvido em C# com WPF. Este projeto foi criado para praticar os conceitos básicos de C#, XAML e desenvolvimento de aplicações desktop.
 
-Como o título sugere, este é um Match Game, um jogo de combinação no qual o objetivo é encontrar e combinar os animais com seus respectivos pares.
+O objetivo é encontrar todos os pares de emojis exibidos no tabuleiro.
 Ao selecionar dois animais:
 
 - Se forem iguais, eles são removidos da tela.
@@ -17,6 +17,47 @@ Este projeto foi desenvolvido como forma de aprendizado e prática dos conceitos
 - 🔄 Reinício automático após completar o jogo
 - ❌ Tratamento de combinações incorretas
 - 🎲 Embaralhamento dos animais a cada partida
+
+## Tecnologias utilizadas
+
+- C#
+- WPF (Windows Presentation Foundation)
+- XAML
+- .NET 10
+- Visual Studio
+
+## Como executar
+
+### Pré-requisitos
+
+- Windows
+- SDK do .NET 10
+- Visual Studio com a carga de trabalho de desenvolvimento para desktop do .NET
+
+### Passos
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/arlindx/MatchGame.git
+   ```
+
+2. Abra `MatchGame.sln` no Visual Studio.
+3. Selecione o projeto `MatchGame` como projeto de inicialização.
+4. Execute com `F5` ou clique em **Iniciar**.
+
+Também é possível executar pelo terminal:
+
+```bash
+cd MatchGame
+dotnet run --project MatchGame/MatchGame.csproj
+```
+
+## Referência de aprendizado
+
+Este projeto foi inspirado em um exercício do livro **Use a Cabeça! C#**, 4ª edição, publicado pela O'Reilly Media.
+
+A implementação deste repositório representa a versão desenvolvida durante o estudo e não reproduz integralmente textos, imagens ou conteúdo original da publicação. Consulte o livro para o material oficial e os direitos de publicação.
 
 ## O que eu aprendi
 
