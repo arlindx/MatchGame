@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como forma de aprendizado e prática dos conceitos
 ## Funcionalidades
 - 🐶 Combinação de animais
 - ⏱️ Cronômetro durante a partida
-- 🔄 Reinício automático após completar o jogo
+- 🔄 Reinício opcional após completar o jogo
 - ❌ Tratamento de combinações incorretas
 - 🎲 Embaralhamento dos animais a cada partida
 
@@ -24,7 +24,6 @@ Este projeto foi desenvolvido como forma de aprendizado e prática dos conceitos
 - WPF (Windows Presentation Foundation)
 - XAML
 - .NET 10
-- Visual Studio
 
 ## Como executar
 
@@ -56,8 +55,6 @@ dotnet run --project MatchGame/MatchGame.csproj
 ## Referência de aprendizado
 
 Este projeto foi inspirado em um exercício do livro **Use a Cabeça! C#**, 4ª edição, publicado pela O'Reilly Media.
-
-A implementação deste repositório representa a versão desenvolvida durante o estudo e não reproduz integralmente textos, imagens ou conteúdo original da publicação. Consulte o livro para o material oficial e os direitos de publicação.
 
 ## O que eu aprendi
 
